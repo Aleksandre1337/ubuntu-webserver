@@ -106,6 +106,6 @@ Replace **WEBURL** with the URL of the website template and **DIRNAME** with the
 
 According to the template which is used in this script, the command will be the following:
 
-fab websetup https://www.tooplate.com/zip-templates/2121_wave_cafe.zip 2121_wave_cafe
+fab web-setup https://www.tooplate.com/zip-templates/2121_wave_cafe.zip 2121_wave_cafe
 
 Website design by - **Tooplate**
